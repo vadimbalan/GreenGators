@@ -7,4 +7,4 @@ We would like to create an online document system that would be filled out by bo
 
 Current Working Agreement - Attached to this repo 
 
-Inception Deck: https://docs.google.com/presentation/d/104bR_JUP68bNPOT0LLx9aElzQ4WOdPl2WrKR8QSfSFI/edit?usp=sharing
+Agile Inception Deck: https://docs.google.com/presentation/d/104bR_JUP68bNPOT0LLx9aElzQ4WOdPl2WrKR8QSfSFI/edit?usp=sharing
